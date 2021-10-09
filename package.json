@@ -11,7 +11,7 @@
   "dependencies": {
     "@saeris/vue-spinners": "^1.0.8",
     "chart.js": "^2.9.4",
-    "core-js": "^3.6.5",
+    "core-js": "^3.18.2",
     "numeral": "^2.0.6",
     "tailwindcss": "^1.1.2",
     "vue": "^2.6.11",
@@ -28,7 +28,7 @@
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^6.2.2",
-    "prettier": "^2.2.1",
+    "prettier": "^2.4.1",
     "vue-template-compiler": "^2.6.11"
   }
 }
